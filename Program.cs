@@ -7,6 +7,7 @@ namespace sandia
     {
 
         //programa con entrada/salida estandar
+        //resuelve el problema de la sandia
         static void Main(string[] args)
         {
             int peso;
