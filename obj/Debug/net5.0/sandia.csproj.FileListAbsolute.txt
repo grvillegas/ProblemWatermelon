@@ -1,0 +1,16 @@
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\bin\Debug\net5.0\sandia.exe
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\bin\Debug\net5.0\sandia.deps.json
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\bin\Debug\net5.0\sandia.runtimeconfig.json
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\bin\Debug\net5.0\sandia.runtimeconfig.dev.json
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\bin\Debug\net5.0\sandia.dll
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\bin\Debug\net5.0\ref\sandia.dll
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\bin\Debug\net5.0\sandia.pdb
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\sandia.csprojAssemblyReference.cache
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\sandia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\sandia.AssemblyInfoInputs.cache
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\sandia.AssemblyInfo.cs
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\sandia.csproj.CoreCompileInputs.cache
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\sandia.dll
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\ref\sandia.dll
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\sandia.pdb
+C:\Users\vp45640\Documents\cosas de gustavo\sandia\obj\Debug\net5.0\sandia.genruntimeconfig.cache
